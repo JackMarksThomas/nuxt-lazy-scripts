@@ -1,5 +1,5 @@
 {
-  "name": "lazy-scripts",
+  "name": "nuxt-lazy-scripts",
   "version": "0.0.4",
   "description": "Enables conditional loading of scripts to your Nuxt.js project straight from the nuxt config.",
   "repository": "JackMarksThomas/nuxt-lazy-scripts",
