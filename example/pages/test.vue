@@ -11,19 +11,12 @@
 
 <script>
 export default {
-  name: 'Example',
+  name: 'TestPage',
 
   data () {
     return {
-      sections: ['red', 'blue', 'green', 'black', 'pink']
+      sections: ['blue', 'green', 'black', 'pink', 'red', 'black']
     }
   }
 }
 </script>
-
-<style>
-.LazyLoad__section {
-  height: 100vh;
-  background: grey;
-}
-</style>
